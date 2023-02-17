@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @nkdtech-dev
-- 👀 I’m interested in python programing language ..
+# 👋 Hi, I’m @nkdtech-dev
+- 👀 I’m an ambitouse python enthusiast with a goal of being among the top names in the python space.
 - 🌱 I’m currently studying computer engineering at the faculty of engineering and technology university of buea ...
-- 💞️ I’m looking to collaborate on with as many pros in the  developing world as much as posible
-- 📫 How to reach me . you can reach me on watsapp +237672944309
+ and looking looking to collaborate on with as many pros in the  developing world as much as posible so as to be able to reach my goals of being amog the top and best programers 
+
+### i can be easily contacted by Email at [nkemdiran88@gmail.com](nkemdiran88@gmail.com)
 
 <!---
 nkdtech-dev/nkdtech-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
